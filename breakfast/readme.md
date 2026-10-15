@@ -27,7 +27,7 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 
 ### Optional sweet filling:
 
-- Nutella, jam, honey, or maple syrup
+- Nutella, peanut butter, jam, honey, or maple syrup
 - Sliced bananas, strawberries, or berries
 - Powdered sugar, for dusting
 
@@ -58,4 +58,4 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 
 ### Author(s):
 
-- Hemanth2423
+- Hemanth2423, EEBarr14
