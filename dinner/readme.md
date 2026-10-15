@@ -37,6 +37,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 - [ ] 1 tbsp water
 - [ ] ¼ cup red onion, chopped
 - [ ] ¼ cup fresh cilantro, chopped
+- [ ] A lot of Beef
 
 ### Steps for preparation:
 
