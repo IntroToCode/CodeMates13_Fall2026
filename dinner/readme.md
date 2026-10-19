@@ -57,6 +57,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 - Warm tortillas before rolling to prevent cracking.
 - Can be assembled ahead and refrigerated before baking.
 - Leftovers reheat well.
+- For a vegan option, replace cheese with zucchini for extra bulk. 
 
 ### Author(s):
 
