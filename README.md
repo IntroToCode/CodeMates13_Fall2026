@@ -1,8 +1,8 @@
 # Recipe Index
 
-- Breakfast: 
+- Breakfast: Crepes
 - Lunch: 
-- Dinner: 
+- Dinner: Black Bean Sweet Potato Enchiladas 
 
 _Notes_
 __
