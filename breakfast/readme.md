@@ -13,6 +13,7 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 | Total Time | 30 minutes |
 | Servings | 8 crepes |
 | Difficulty | Easy |
+| Spice level | 🚫 |
 | Tags | vegetarian, quick, French, breakfast |
 
 ### Ingredients:

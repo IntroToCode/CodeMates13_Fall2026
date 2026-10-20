@@ -13,6 +13,7 @@ California rolls filled with imitation crab, avocado, and cucumber, wrapped in n
 | Total Time | 1 hour 20 minutes |
 | Servings | 4 servings |
 | Difficulty | Medium |
+| Spice level | 🌶️🌶️ |
 | Tags | California rolls, sushi rice, main course |
 
 ### Ingredients:
