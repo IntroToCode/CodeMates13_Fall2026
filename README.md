@@ -1,8 +1,9 @@
 # Recipe Index
 
-- Breakfast: Crepes
-- Lunch: California Rolls 
-- Dinner: Black Bean Sweet Potato Enchiladas 
+- [Breakfast: Crepes](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/breakfast)
+- [Lunch: California Rolls](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/lunch)
+- [Dinner: Black Bean Sweet Potato Enchiladas](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/dinner)
 
-_Notes_
-__A full day of rolled meals to delight the senses and nourish the body and mind. 
+## Notes
+
+A full day of rolled meals to delight the senses and nourish the body and mind.
