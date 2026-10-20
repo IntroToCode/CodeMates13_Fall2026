@@ -60,6 +60,16 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 ### Substitutions:
 - For a vegan option, replace cheese with zucchini for extra bulk.
 - Use certified gluten-free corn tortillas if needed.
+
+### Suggest drink pairing:
+
+- Watermelon Agua Fresca
+- 4 cups seedless watermelon, cubed
+- 2 cups cold water
+- Juice of 1 lime
+- 1 to 2 tablespoons agave, sugar or honey, to taste
+- Ice, mint, and lime slices for serving
+- Blend watermelon and water, stir in lime juice and sweetener and serve over ice with mint and lime
   
 ### Author(s):
 
