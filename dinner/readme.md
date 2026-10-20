@@ -13,6 +13,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 | Total Time | 1 hour 20 minutes |
 | Servings | 5 (10 enchiladas) |
 | Difficulty | Medium |
+| Spice level | 🌶️🌶️ |
 | Tags | Vegetarian, Mexican-inspired, gluten-free option, meal prep |
 
 ### Ingredients:
