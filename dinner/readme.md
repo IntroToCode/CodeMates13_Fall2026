@@ -64,7 +64,7 @@ Enchiladas filled with roasted sweet potatoes, green chiles, and cheese, topped 
 - For a vegan option, replace cheese with zucchini for extra bulk.
 - Use certified gluten-free corn tortillas if needed.
 
-### Suggest drink pairing:
+### Suggested drink pairing:
 
 - Watermelon Agua Fresca
 - 4 cups seedless watermelon, cubed
