@@ -60,6 +60,10 @@ California rolls filled with imitation crab, avocado, and cucumber, wrapped in n
 - Wipe the knife with a damp paper towel before slicing to reduce sticking.
 - The provided recipe does not specify the number of rolls or the quantities of nori and sesame seeds.
 
+### Substitutions:
+
+- Leave out the imitation crab if vegan and use vegan mayo. 
+
 ### Author(s):
 
 - Hemanth2423
