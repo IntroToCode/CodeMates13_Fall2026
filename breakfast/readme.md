@@ -56,6 +56,10 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 - For a richer flavor, replace some of the milk with cream.
 - Crepes can be made ahead and stored in the refrigerator for 2–3 days.
 
+### Substitutions:
+
+- Replace milk with non-dairy milk for a dairy-free version.
+
 ### Author(s):
 
 - Hemanth2423, EEBarr14
