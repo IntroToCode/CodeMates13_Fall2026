@@ -1,8 +1,8 @@
-# Black Bean Sweet Potato Enchiladas
+# Sweet Potato Enchiladas
 
 ## Description
 
-Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chiles, and cheese, topped with salsa verde and baked until bubbly.
+Enchiladas filled with roasted sweet potatoes, green chiles, and cheese, topped with salsa verde and baked until bubbly.
 
 ## Stats
 
@@ -13,7 +13,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 | Total Time | 1 hour 20 minutes |
 | Servings | 5 (10 enchiladas) |
 | Difficulty | Medium |
-| Tags | Vegetarian, Mexican-inspired, gluten-free option, meal prep |
+| Tags | Mexican-inspired, gluten-free option, meal prep |
 
 ### Ingredients:
 
@@ -43,7 +43,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 
 1. Preheat oven to 400°F. Halve sweet potatoes lengthwise, brush with olive oil, and roast cut-side down for 30–35 minutes until tender.
 2. Spread ½ cup salsa verde in a 9 × 13-inch baking dish.
-3. Combine black beans, half the Monterey Jack, feta, green chiles, jalapeño, garlic, lime juice, cumin, chili powder, cayenne, salt, and pepper. If using meat, add to mixture now. 
+3. Combine, half the Monterey Jack, feta, green chiles, jalapeño, garlic, lime juice, cumin, chili powder, cayenne, salt, and pepper. If using meat, add to mixture now. 
 4. Scoop roasted sweet potato flesh from skins, mash lightly, and mix into the filling.
 5. Warm tortillas until pliable. Fill each with approximately ½ cup filling, roll, and place seam-side down in the baking dish.
 6. Pour remaining salsa verde over enchiladas and sprinkle with remaining Monterey Jack.
@@ -57,7 +57,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 - Warm tortillas before rolling to prevent cracking.
 - Can be assembled ahead and refrigerated before baking.
 - Leftovers reheat well.
-- For a vegan option, replace cheese with zucchini for extra bulk. 
+- For a vegetarian option, replace meat with zucchini or beans for extra bulk. 
 
 ### Author(s):
 
