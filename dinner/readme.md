@@ -37,13 +37,13 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 - [ ] 1 tbsp water
 - [ ] ¼ cup red onion, chopped
 - [ ] ¼ cup fresh cilantro, chopped
-- [ ] A lot of Beef
+- [ ] 1 lb ground beef, turkey, or chicken, cooked
 
 ### Steps for preparation:
 
 1. Preheat oven to 400°F. Halve sweet potatoes lengthwise, brush with olive oil, and roast cut-side down for 30–35 minutes until tender.
 2. Spread ½ cup salsa verde in a 9 × 13-inch baking dish.
-3. Combine black beans, half the Monterey Jack, feta, green chiles, jalapeño, garlic, lime juice, cumin, chili powder, cayenne, salt, and pepper.
+3. Combine black beans, half the Monterey Jack, feta, green chiles, jalapeño, garlic, lime juice, cumin, chili powder, cayenne, salt, and pepper. If using meat, add to mixture now. 
 4. Scoop roasted sweet potato flesh from skins, mash lightly, and mix into the filling.
 5. Warm tortillas until pliable. Fill each with approximately ½ cup filling, roll, and place seam-side down in the baking dish.
 6. Pour remaining salsa verde over enchiladas and sprinkle with remaining Monterey Jack.
