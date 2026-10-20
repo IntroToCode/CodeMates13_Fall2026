@@ -13,6 +13,7 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 | Total Time | 30 minutes |
 | Servings | 8 crepes |
 | Difficulty | Easy |
+| Spice level | 🚫 |
 | Tags | vegetarian, quick, French, breakfast |
 
 ### Ingredients:
@@ -55,6 +56,10 @@ A light, thin French-style pancake made from a simple batter of flour, eggs, and
 - If the batter is too thick, add a little more milk or water.
 - For a richer flavor, replace some of the milk with cream.
 - Crepes can be made ahead and stored in the refrigerator for 2–3 days.
+
+### Substitutions:
+
+- Replace milk with non-dairy milk for a dairy-free version.
 
 ### Author(s):
 

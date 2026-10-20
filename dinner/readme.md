@@ -14,6 +14,8 @@ Enchiladas filled with roasted sweet potatoes, green chiles, and cheese, topped 
 | Servings | 5 (10 enchiladas) |
 | Difficulty | Medium |
 | Tags | Mexican-inspired, gluten-free option, meal prep |
+| Spice level | 🌶️🌶️🌶️ |
+| Tags | Vegetarian, Mexican-inspired, gluten-free option, meal prep |
 
 ### Ingredients:
 
@@ -23,7 +25,7 @@ Enchiladas filled with roasted sweet potatoes, green chiles, and cheese, topped 
 - [ ] 8 oz Monterey Jack cheese, grated (divided)
 - [ ] 2 oz feta cheese, crumbled
 - [ ] 2 cans (4 oz each) diced green chiles
-- [ ] 1 jalapeño, seeded and minced
+- [ ] 2 jalapeños, seeded and minced
 - [ ] 2 cloves garlic, minced
 - [ ] 2 tbsp lime juice
 - [ ] ½ tsp ground cumin
@@ -52,13 +54,26 @@ Enchiladas filled with roasted sweet potatoes, green chiles, and cheese, topped 
 
 ### Notes:
 
-- Use certified gluten-free corn tortillas if needed.
 - Adjust jalapeño and cayenne for desired spice level.
 - Warm tortillas before rolling to prevent cracking.
 - Can be assembled ahead and refrigerated before baking.
 - Leftovers reheat well.
 - For a vegetarian option, replace meat with zucchini or beans for extra bulk. 
 
+### Substitutions:
+- For a vegan option, replace cheese with zucchini for extra bulk.
+- Use certified gluten-free corn tortillas if needed.
+
+### Suggest drink pairing:
+
+- Watermelon Agua Fresca
+- 4 cups seedless watermelon, cubed
+- 2 cups cold water
+- Juice of 1 lime
+- 1 to 2 tablespoons agave, sugar or honey, to taste
+- Ice, mint, and lime slices for serving
+- Blend watermelon and water, stir in lime juice and sweetener and serve over ice with mint and lime
+  
 ### Author(s):
 
-- EEBarr14
+- Hemanth2423, EEBarr14, abbystern
