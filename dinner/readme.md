@@ -20,7 +20,6 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 
 - [ ] 1¼ pounds sweet potatoes
 - [ ] Olive oil, for roasting
-- [ ] 1 can (15 oz) black beans, rinsed and drained
 - [ ] 8 oz Monterey Jack cheese, grated (divided)
 - [ ] 2 oz feta cheese, crumbled
 - [ ] 2 cans (4 oz each) diced green chiles
