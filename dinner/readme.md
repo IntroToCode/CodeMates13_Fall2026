@@ -60,7 +60,19 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 ### Substitutions:
 - For a vegan option, replace cheese with zucchini for extra bulk.
 - Use certified gluten-free corn tortillas if needed.
-  
+
+### Beverage Pairing:
+MARGARITAS
+- 1 1/2 ounces silver tequila
+- 1 ounce orange liqueur (Cointreau, Grand Marnier or Triple Sec)
+- 3/4 ounce freshly-squeezed lime juice
+- optional sweetener: agave nectar or simple syrup, to taste
+- ice
+- lime wedge and coarse salt for rimming the glass
+
+Directions: mix all liquids and then serve in (optionally) salted rimmed glasses 
+
+
 ### Author(s):
 
 - EEBarr14
