@@ -52,13 +52,15 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 
 ### Notes:
 
-- Use certified gluten-free corn tortillas if needed.
 - Adjust jalapeño and cayenne for desired spice level.
 - Warm tortillas before rolling to prevent cracking.
 - Can be assembled ahead and refrigerated before baking.
 - Leftovers reheat well.
-- For a vegan option, replace cheese with zucchini for extra bulk. 
 
+### Substitutions:
+- For a vegan option, replace cheese with zucchini for extra bulk.
+- Use certified gluten-free corn tortillas if needed.
+  
 ### Author(s):
 
 - EEBarr14
