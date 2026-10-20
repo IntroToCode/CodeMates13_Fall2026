@@ -1,4 +1,4 @@
-# California rolls
+# California Rolls
 
 ## Description
 
@@ -11,7 +11,7 @@ California rolls filled with imitation crab, avocado, and cucumber, wrapped in n
 | Prep Time | 1 hour |
 | Cook Time | 20 minutes |
 | Total Time | 1 hour 20 minutes |
-| Servings | 2 servings |
+| Servings | 4 servings |
 | Difficulty | Medium |
 | Tags | California rolls, sushi rice, main course |
 
