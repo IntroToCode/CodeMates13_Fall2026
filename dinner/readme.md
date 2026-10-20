@@ -64,7 +64,7 @@ Vegetarian enchiladas filled with roasted sweet potatoes, black beans, green chi
 ### Beverage Pairing:
 MARGARITAS
 - 1 1/2 ounces silver tequila
-- 1 ounce orange liqueur (Cointreau, Grand Marnier or Triple Sec)
+- 1 1/2 ounce orange liqueur (Cointreau, Grand Marnier or Triple Sec)
 - 3/4 ounce freshly-squeezed lime juice
 - optional sweetener: agave nectar or simple syrup, to taste
 - ice
