@@ -1,6 +1,6 @@
 # Recipe Index
 
-- [Breakfast: Crepes](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/breakfast)
+- [Breakfast: French Style Crepes](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/breakfast)
 - [Lunch: California Rolls](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/lunch)
 - [Dinner: Black Bean Sweet Potato Enchiladas](https://github.com/IntroToCode/CodeMates13_Fall2026/tree/main/dinner)
 
