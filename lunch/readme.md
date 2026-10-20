@@ -1,4 +1,4 @@
-# Lunch Recipe
+# Recipe Name
 
 ## Description
 
